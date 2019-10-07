@@ -1,0 +1,12 @@
+[submodule "parametric"]
+	path = parametric
+	url = https://github.com/lab-api/parametric
+[submodule "optimistic"]
+	path = optimistic
+	url = https://github.com/lab-api/optimistic
+[submodule "vigilant"]
+	path = vigilant
+	url = https://github.com/lab-api/vigilant
+[submodule "tactile"]
+	path = tactile
+	url = https://github.com/lab-api/tactile
